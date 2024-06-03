@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omer\\Desktop\\MvcCv english - Kopya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\DeneyimController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\HakkimdaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\EgitimController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\SosyalMedyaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\SertifikaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Default\\Egitimlerim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Egitim\\EgitimDuzenle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Egitim\\EgitimEkle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Egitim\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Default\\Sertifikalar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\YetenekController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\HobiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\iletisimController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43B7902-AC8E-457F-80BE-809756F0F963}|MvcCv\\MvcCv.csproj|C:\\Users\\Omer\\Desktop\\MvcCv english - Kopya\\MvcCv\\Views\\Default\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C43B7902-AC8E-457F-80BE-809756F0F963}|MvcCv\\MvcCv.csproj|solutionrelative:MvcCv\\Views\\Default\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43B7902-AC8E-457F-80BE-809756F0F963}|MvcCv\\MvcCv.csproj|C:\\Users\\Omer\\Desktop\\MvcCv english - Kopya\\MvcCv\\Views\\Shared\\_AdminLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C43B7902-AC8E-457F-80BE-809756F0F963}|MvcCv\\MvcCv.csproj|solutionrelative:MvcCv\\Views\\Shared\\_AdminLayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43B7902-AC8E-457F-80BE-809756F0F963}|MvcCv\\MvcCv.csproj|C:\\Users\\Omer\\Desktop\\MvcCv english - Kopya\\MvcCv\\Repositories\\HakkimdaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43B7902-AC8E-457F-80BE-809756F0F963}|MvcCv\\MvcCv.csproj|solutionrelative:MvcCv\\Repositories\\HakkimdaRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T13:36:43.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omer\\Desktop\\MvcCv english - Kopya\\MvcCv\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Omer\\Desktop\\MvcCv english - Kopya\\MvcCv\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T17:23:52.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omer\\Desktop\\MvcCv english - Kopya\\MvcCv\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MvcCv\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Omer\\Desktop\\MvcCv english - Kopya\\MvcCv\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MvcCv\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T17:22:26.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeneyimController.cs",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\DeneyimController.cs",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\DeneyimController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:08:50.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HakkimdaController.cs",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\HakkimdaController.cs",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\HakkimdaController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:04:35.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EgitimController.cs",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\EgitimController.cs",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\EgitimController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:05:35.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SosyalMedyaController.cs",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\SosyalMedyaController.cs",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\SosyalMedyaController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:03:32.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SertifikaController.cs",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\SertifikaController.cs",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\SertifikaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:04:56.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Egitimlerim.cshtml",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Default\\Egitimlerim.cshtml",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Default\\Egitimlerim.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T17:17:22.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EgitimDuzenle.cshtml",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Egitim\\EgitimDuzenle.cshtml",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Egitim\\EgitimDuzenle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T17:28:41.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EgitimEkle.cshtml",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Egitim\\EgitimEkle.cshtml",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Egitim\\EgitimEkle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T17:28:52.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Egitim\\Index.cshtml",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Egitim\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T17:28:55.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sertifikalar.cshtml",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Default\\Sertifikalar.cshtml",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Views\\Default\\Sertifikalar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T17:17:03.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "YetenekController.cs",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\YetenekController.cs",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\YetenekController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:06:39.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HobiController.cs",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\HobiController.cs",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\HobiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:06:15.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "iletisimController.cs",
+              "DocumentMoniker": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\iletisimController.cs",
+              "ToolTip": "D:\\Cv Projesi\\MvcCv english\\MvcCv\\Controllers\\iletisimController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:05:15.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HakkimdaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\Desktop\\MvcCv english - Kopya\\MvcCv\\Repositories\\HakkimdaRepository.cs",
+              "RelativeDocumentMoniker": "MvcCv\\Repositories\\HakkimdaRepository.cs",
+              "ToolTip": "C:\\Users\\Omer\\Desktop\\MvcCv english - Kopya\\MvcCv\\Repositories\\HakkimdaRepository.cs",
+              "RelativeToolTip": "MvcCv\\Repositories\\HakkimdaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:03:05.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
